@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My reason for learning programming"
-date:       2019-05-17 23:21:49 +0000
+date:       2019-05-17 19:21:50 -0400
 permalink:  my_reason_for_learning_programming
 ---
 
